@@ -3,3 +3,4 @@ The repository you are looking at contains files related to blog posts on http:/
 
 ## List of post and related files
 - graph (http://solr.pl/en/2016/04/12/solr-6-0-and-graph-traversal-support)
+- posts (files related to posts on http://solr.pl)
